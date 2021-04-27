@@ -1,0 +1,55 @@
+C:\Users\Admin\Desktop\quanlycafe\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\Admin\Desktop\quanlycafe\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\Admin\Desktop\quanlycafe\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\Admin\Desktop\quanlycafe\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\quanlycafe\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WLogin.resources
+C:\Users\Admin\Desktop\quanlycafe\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\quanlycafe\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\quanlycafe\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\Admin\Desktop\quanlycafe\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\Admin\Desktop\quanlycafe\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WTableManager.resources
+C:\Users\Admin\Desktop\quanlycafe\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WAccProfile.resources
+C:\Users\Admin\Desktop\quanlycafe\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WAdmin.resources
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WAccProfile.resources
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WAdmin.resources
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WLogin.resources
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WTableManager.resources
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\Quan ly nha hang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WCheckOut.resources
+C:\Users\Admin\Desktop\Do An 1 Hoan Thien-20201202T102255Z-001\Do An 1 Hoan Thien\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Do An 1 Hoan Thien-20201202T102255Z-001\Do An 1 Hoan Thien\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WAccProfile.resources
+C:\Users\Admin\Desktop\Do An 1 Hoan Thien-20201202T102255Z-001\Do An 1 Hoan Thien\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WAdmin.resources
+C:\Users\Admin\Desktop\Do An 1 Hoan Thien-20201202T102255Z-001\Do An 1 Hoan Thien\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WCheckOut.resources
+C:\Users\Admin\Desktop\Do An 1 Hoan Thien-20201202T102255Z-001\Do An 1 Hoan Thien\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WLogin.resources
+C:\Users\Admin\Desktop\Do An 1 Hoan Thien-20201202T102255Z-001\Do An 1 Hoan Thien\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\Do An 1 Hoan Thien-20201202T102255Z-001\Do An 1 Hoan Thien\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WTableManager.resources
+C:\Users\Admin\Desktop\Do An 1 Hoan Thien-20201202T102255Z-001\Do An 1 Hoan Thien\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Do An 1 Hoan Thien-20201202T102255Z-001\Do An 1 Hoan Thien\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Do An 1 Hoan Thien-20201202T102255Z-001\Do An 1 Hoan Thien\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\Admin\Desktop\Do An 1 Hoan Thien-20201202T102255Z-001\Do An 1 Hoan Thien\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\Admin\Desktop\Do An 1 Hoan Thien-20201202T102255Z-001\Do An 1 Hoan Thien\Project\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\Admin\Desktop\Do An 1 Hoan Thien-20201202T102255Z-001\Do An 1 Hoan Thien\Project\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\Admin\Desktop\Do An 1 Hoan Thien-20201202T102255Z-001\Do An 1 Hoan Thien\Project\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\Admin\Desktop\LTNC\Project\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\Admin\Desktop\LTNC\Project\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\Admin\Desktop\LTNC\Project\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\Admin\Desktop\LTNC\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LTNC\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WAccProfile.resources
+C:\Users\Admin\Desktop\LTNC\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WAdmin.resources
+C:\Users\Admin\Desktop\LTNC\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WCheckOut.resources
+C:\Users\Admin\Desktop\LTNC\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WLogin.resources
+C:\Users\Admin\Desktop\LTNC\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\LTNC\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.WTableManager.resources
+C:\Users\Admin\Desktop\LTNC\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\LTNC\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LTNC\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\Admin\Desktop\LTNC\Project\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
